@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Launch Counter</string>
+    <string name="counter">\?</string>
+</resources>
